@@ -143,6 +143,7 @@ DEFAULT_NUM_CTX=8192
 Prerequisites:
 
 Git and Node.js as mentioned above, as well as Docker: https://www.docker.com/
+Also clone down the repo and setup the .env file
 
 ### 1a. Using Helper Scripts
 
